@@ -4,3 +4,4 @@ Devices ready to use are:
 1. Firewall Paloalto PA-220 (physical)
 2. Virtual cisco routers using EVE-ng
 3. Virtual F5 LTM running on VMware
+Another goal is also to try to understand how git is working
